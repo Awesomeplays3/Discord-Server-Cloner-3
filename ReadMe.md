@@ -3,8 +3,10 @@
 
 ``🕹`` Discord Server Cloner !
 
+``⚙️`` First Run Install.bat
 
-``⌛️`` First Run Start.Bat 
+
+``⌛️`` Run Start.Bat 
 
 
 ``🖥`` Put Your token In Cmd
